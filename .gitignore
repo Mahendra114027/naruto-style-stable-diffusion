@@ -209,3 +209,4 @@ __marimo__/
 # Project files
 .vscode/
 *.pdf
+.DS_Store
